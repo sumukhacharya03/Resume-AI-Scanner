@@ -1,0 +1,42 @@
+=======================================================
+                ATS COMPATIBILITY REPORT               
+=======================================================
+
+Generated on: 2025-04-08 23:31:21
+Resume File: data/sample_resume.pdf
+
+JOB MATCH SCORE: 26.79%
+[█████░░░░░░░░░░░░░░░]
+
+Score Interpretation:
+Below average match. Significant improvements may be needed to align with this job.
+
+MATCHED KEYWORDS (5):
+✓ Git
+✓ Docker
+✓ MySQL
+✓ JavaScript
+✓ React
+
+=======================================================
+Suggested Improvements:
+
+1. Add Missing Keywords:
+   - PostgreSQL
+   - Vue
+   - Node.js
+   - Angular
+   - DevOps
+   - CI/CD
+   - MongoDB
+
+3. Content Optimization:
+   - Add quantifiable achievements (percentages, numbers, metrics)
+   - Ensure proper keyword density (avoid overuse or underuse)
+   - Make contact information more prominent
+
+=======================================================
+NEXT STEPS:
+1. Update your resume based on the suggestions above
+2. Run the analysis again to verify improvements
+3. Tailor your resume for each specific job application
