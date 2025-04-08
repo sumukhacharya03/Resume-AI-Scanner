@@ -1,0 +1,17 @@
+Job Title: Full Stack Developer
+Job Description:
+Our team is seeking a skilled Full Stack Developer to design and implement both front-end and back-end components of our web applications. Requirements include:
+- 3+ years of experience in full stack development
+- Strong JavaScript skills, including modern frameworks (React, Angular, or Vue)
+- Proficiency in Node.js or similar back-end technologies
+- Experience with RESTful API design and implementation
+- Knowledge of database systems (MongoDB, MySQL, PostgreSQL)
+- Understanding of CI/CD pipelines and DevOps practices
+- Ability to write clean, maintainable, and well-tested code
+Key Skills:
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git
+- Docker
